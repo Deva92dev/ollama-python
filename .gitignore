@@ -1,0 +1,25 @@
+# Ollama Models and Local DBs
+ollama/
+llama/
+chroma_db/
+.db
+*.db
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store   
+
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+ENV/
+.eggs/
+dist/
+build/
+*.egg-info/   

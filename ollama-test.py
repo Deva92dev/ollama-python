@@ -1,6 +1,6 @@
 import ollama
 
-# Simple chat completion
+# Simple chat completion working, start model from terminal, ollama run gemma4:e2b then check from here 
 response = ollama.chat(
     model='gemma4:e2b',
     messages=[
